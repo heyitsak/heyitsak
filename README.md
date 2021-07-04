@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **React, Gatsby, Python**
 
-- 👨‍💻 All of my projects are available at [http://portfolio.heyitsak.in](http://portfolio.heyitsak.in)
+- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/heyitsak?tab=repositories)
 
 - 📝 I regularly write articles on [http://heyitsak.in](http://heyitsak.in)
-
-- 💬 Ask me about **Linux**
 
 - 📫 How to reach me **akhilp1708@gmail.com**
 
