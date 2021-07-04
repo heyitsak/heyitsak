@@ -13,7 +13,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 📖 Actively writing notes for Kubernetes Beginners guide [kubernetes-mynotes](https://github.com/heyitsak/kubernetes-mynotes)
 
-- ⚡ Fun fact **I ❤️ 🐶's**  
+- ⚡ Fun fact **I ❤️ 🐶's, I like to ride motorcycles and explore new trails. I enjoy sunsets, long walks on the beach and some country musics.**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
