@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitsak&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsak" /> </p>
 
-- 🔭 I’m currently working on **RaspberryPi OpenProjects**
+- 🔭 I’m currently working on **RaspberryPi OpenProjects, Home Automation**
 
 - 🌱 I’m currently learning **React, Gatsby, Python**
 
-- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/heyitsak?tab=repositories)
+- 👨‍💻 All of my projects are available at [GithubRepository](https://github.com/heyitsak?tab=repositories)
 
 - 📝 I regularly write articles on [http://heyitsak.in](http://heyitsak.in)
 
