@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [http://heyitsak.in](http://heyitsak.in)
 
+- 📖 Actively writing notes for Kubernetes Beginners guide [kubernetes-mynotes](https://github.com/heyitsak?tab=repositories)
+
 - ⚡ Fun fact **I love 🐶**
 
 <h3 align="left">Connect with me:</h3>
