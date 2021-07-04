@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [http://heyitsak.in](http://heyitsak.in)
 
-- 📫 How to reach me **akhilp1708@gmail.com**
-
 - ⚡ Fun fact **I love 🐶**
 
 <h3 align="left">Connect with me:</h3>
