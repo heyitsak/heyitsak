@@ -3,18 +3,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitsak&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsak" /> </p>
 
-- 🔭 I’m currently working on **RaspberryPi OpenProjects, Home Automation**
-
-- 🌱 I’m currently learning **React, Gatsby, Python**
-
-- 👨‍💻 All of my projects are available at [GithubRepository](https://github.com/heyitsak?tab=repositories)
-
-- 📝 I regularly write articles on [http://heyitsak.in](http://heyitsak.in)
-
-- 📖 Actively writing notes for Kubernetes Beginners guide [kubernetes-mynotes](https://github.com/heyitsak/kubernetes-mynotes)
-
-- ⚡ Fun fact **I ❤️ 🐶's** , I like to ride motorcycles and explore new trails. I enjoy sunsets, long walks on the beach and some country musics.  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akhilp1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilp1708" height="30" width="40" /></a>
