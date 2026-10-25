@@ -54,11 +54,13 @@ I am a developer focused on **modern web standards**, **clean systems architectu
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyitsak&show_icons=true&hide_border=true&bg_color=121214&title_color=f4f4f6&text_color=a8a29e&icon_color=ea580c&border_radius=10" height="150" alt="Ak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heyitsak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=121214&title_color=f4f4f6&text_color=a8a29e&icon_color=ea580c&border_radius=10" height="150" alt="Ak's GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsak&layout=compact&hide_border=true&bg_color=121214&title_color=f4f4f6&text_color=a8a29e&border_radius=10" height="150" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyitsak&hide_border=true&background=121214&ring=ea580c&fire=ea580c&currStreakLabel=ea580c&sideLabels=a8a29e&dates=71717a&stroke=27272a&border_radius=10" width="88%" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=heyitsak&theme=flat&no-frame=true&column=6&margin-w=8" width="88%" alt="Ak's Trophies" />
 </div>
 
 ---
