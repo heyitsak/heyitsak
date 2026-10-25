@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 220" width="100%" height="auto">
+  <defs>
+    <linearGradient id="terracotta-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ea580c" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#9a3412" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-bg { fill: #faf8f5; stroke: #e7e3dc; stroke-width: 1.5; }
+    .grid-dots { fill: #d3cec4; opacity: 0.6; }
+    .monogram-box { fill: #1c1917; }
+    .monogram-text { fill: #faf8f5; font-family: 'Newsreader', Georgia, serif; font-size: 20px; font-weight: 700; letter-spacing: 1px; }
+    
+    .status-pill { fill: #f4f0eb; stroke: #e7e3dc; stroke-width: 1; }
+    .status-dot { fill: #15803d; }
+    .status-text { fill: #57534e; font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 11px; font-weight: 500; }
+
+    .name-title { fill: #1c1917; font-family: 'Newsreader', Georgia, serif; font-size: 34px; font-weight: 600; letter-spacing: -0.5px; }
+    .role-desc { fill: #57534e; font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 14.5px; font-weight: 400; }
+    .meta-mono { fill: #8c857b; font-family: 'JetBrains Mono', 'SF Mono', Consolas, monospace; font-size: 11.5px; letter-spacing: 0.5px; }
+    .accent-star { fill: #9a3412; font-family: 'Newsreader', serif; font-size: 16px; }
+
+    @media (prefers-color-scheme: dark) {
+      .card-bg { fill: #121214; stroke: #2e2e36; }
+      .grid-dots { fill: #3f3f4a; opacity: 0.5; }
+      .monogram-box { fill: #1c1c21; stroke: #3f3f4a; stroke-width: 1; }
+      .monogram-text { fill: #f4f4f6; }
+      
+      .status-pill { fill: #19191d; stroke: #2e2e36; }
+      .status-dot { fill: #22c55e; }
+      .status-text { fill: #a1a1aa; }
+
+      .name-title { fill: #f4f4f6; }
+      .role-desc { fill: #a8a29e; }
+      .meta-mono { fill: #71717a; }
+      .accent-star { fill: #f97316; }
+    }
+  </style>
+
+  <!-- Background Container -->
+  <rect class="card-bg" x="2" y="2" width="836" height="216" rx="14" />
+
+  <!-- Subtle Minimalist Grid Pattern on Right -->
+  <g class="grid-dots">
+    <circle cx="760" cy="40" r="1.5" />
+    <circle cx="785" cy="40" r="1.5" />
+    <circle cx="810" cy="40" r="1.5" />
+    <circle cx="760" cy="65" r="1.5" />
+    <circle cx="785" cy="65" r="1.5" />
+    <circle cx="810" cy="65" r="1.5" />
+    <circle cx="760" cy="90" r="1.5" />
+    <circle cx="785" cy="90" r="1.5" />
+    <circle cx="810" cy="90" r="1.5" />
+    <circle cx="760" cy="115" r="1.5" />
+    <circle cx="785" cy="115" r="1.5" />
+    <circle cx="810" cy="115" r="1.5" />
+    <circle cx="760" cy="140" r="1.5" />
+    <circle cx="785" cy="140" r="1.5" />
+    <circle cx="810" cy="140" r="1.5" />
+    <circle cx="760" cy="165" r="1.5" />
+    <circle cx="785" cy="165" r="1.5" />
+    <circle cx="810" cy="165" r="1.5" />
+  </g>
+
+  <!-- Left: Monogram Stamp -->
+  <rect class="monogram-box" x="40" y="42" width="46" height="46" rx="8" />
+  <text class="monogram-text" x="51" y="72">AK</text>
+
+  <!-- Status Pill -->
+  <g transform="translate(102, 47)">
+    <rect class="status-pill" x="0" y="0" width="240" height="28" rx="14" />
+    <circle class="status-dot" cx="16" cy="14" r="4.5" />
+    <text class="status-text" x="29" y="18">Open for engineering opportunities</text>
+  </g>
+
+  <!-- Name & Headline -->
+  <text class="name-title" x="40" y="130">
+    Akhilesh Pratap Pandey
+    <tspan class="accent-star" dx="6">✦</tspan>
+  </text>
+  
+  <text class="role-desc" x="40" y="160">
+    Software Engineer crafting fast web standards, reliable backend services, and human-first tooling.
+  </text>
+
+  <!-- Monospace Meta Bar / Breadcrumb -->
+  <text class="meta-mono" x="40" y="194">
+    SYSTEMS · MODERN WEB · ACCESSIBILITY (a11y) · EDITORIAL CRAFTSMANSHIP
+  </text>
+</svg>
