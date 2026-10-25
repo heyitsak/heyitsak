@@ -5,7 +5,7 @@
 # Hi there, I'm Ak 👋
 
 <a href="https://github.com/heyitsak">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=EA580C&center=true&vCenter=true&width=520&lines=Systems+%26+Modern+Web+Craftsman;Zero-Bloat+Software+Architecture;100%2F100+Lighthouse+Performance;Building+Authentic+Code+from+First+Principles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=EA580C&center=true&vCenter=true&width=560&lines=Student+Developer+%26+Modern+Web+Craftsman;Zero-Bloat+Software+Architecture;100%2F100+Lighthouse+Performance;Code+Built+from+First+Principles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,22 +15,6 @@
 [![Discord Status](https://img.shields.io/badge/Discord_Status-Online_%26_Coding-22c55e?style=flat-square&logo=discord&logoColor=white)](https://heyitsak.github.io/plotfolio/)
 [![Code Style](https://img.shields.io/badge/Code-100%25_Handcrafted-8b5cf6?style=flat-square)](https://github.com/heyitsak)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-57534e?style=flat-square&logo=gmail&logoColor=white)](mailto:267835059+heyitsak@users.noreply.github.com)
-
-</div>
-
----
-
-### 🏆 GitHub Achievements & Milestones
-
-<div align="center">
-
-| Achievement | Tier / Event | Recognition |
-| :---: | :---: | :--- |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="56" height="56" alt="Pull Shark" /> | **Pull Shark (x2)** | Merged multiple collaborative pull requests across open-source repositories |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="56" height="56" alt="Pair Extraordinaire" /> | **Pair Extraordinaire** | Co-authored commits in merged pull requests demonstrating team synergy |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="56" height="56" alt="Quickdraw" /> | **Quickdraw** | Rapid incident triage: identified and resolved issues in under 1 minute |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="56" height="56" alt="YOLO" /> | **YOLO** | Merged pull requests with autonomous execution velocity |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="56" height="56" alt="Galaxy Brain" /> | **Galaxy Brain** | Community contributor with officially verified **Accepted Answers** |
 
 </div>
 
@@ -69,22 +53,6 @@ I am a developer focused on **modern web standards**, **clean systems architectu
 | 🎮 **[PolyCoder](https://github.com/heyitsak/polycoder)** | Gamified coding engine with 7 language tracks, zero-to-grandmaster progression, and in-browser execution sandboxes. | `TypeScript` `Web Sandbox` `Modern UI` | [![CI](https://github.com/heyitsak/polycoder/actions/workflows/ci.yml/badge.svg)](https://github.com/heyitsak/polycoder/actions) |
 | 🗺️ **[NewsMap](https://github.com/heyitsak/news-map)** | Interactive cyberpunk-themed global news & intelligence visualizer tracking real-time world events. | `React 19` `Vite` `React Simple Maps` | [![CI](https://github.com/heyitsak/news-map/actions/workflows/ci.yml/badge.svg)](https://github.com/heyitsak/news-map/actions) |
 | 🏢 **[OneX Portal](https://github.com/heyitsak/onex-portal)** | Full-stack member management, support ticketing, and service portal built for speed and reliability. | `Next.js 16` `React 19` `Tailwind` | [![CI](https://github.com/heyitsak/onex-portal/actions/workflows/ci.yml/badge.svg)](https://github.com/heyitsak/onex-portal/actions) |
-
----
-
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyitsak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=121214&title_color=f4f4f6&text_color=a8a29e&icon_color=ea580c&border_radius=10" height="150" alt="Ak's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsak&layout=compact&hide_border=true&bg_color=121214&title_color=f4f4f6&text_color=a8a29e&border_radius=10" height="150" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyitsak&hide_border=true&background=121214&ring=ea580c&fire=ea580c&currStreakLabel=ea580c&sideLabels=a8a29e&dates=71717a&stroke=27272a&border_radius=10" width="88%" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=heyitsak&theme=flat&no-frame=true&column=6&margin-w=8" width="88%" alt="Ak's Trophies" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitsak&theme=github-compact&bg_color=121214&color=ea580c&line=ea580c&point=f4f4f6&area=true&hide_border=true" width="88%" alt="Ak's Activity Graph" />
-</div>
 
 ---
 
